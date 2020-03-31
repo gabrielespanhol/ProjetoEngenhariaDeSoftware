@@ -1,3 +1,3 @@
-# SI-ESTACIONAMENTO
-# Cliente Piloto - Rede Estapar Estacionamento
+# Projeto SI-Estacionamento
+# Cliente piloto: Rede Estapar de Estacionamento, Av Paulista
 
